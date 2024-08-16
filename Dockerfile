@@ -1,1 +1,1 @@
-FROM bitnami/rabbitmq:3.10.5-debian-10-r0
+FROM bitnami/rabbitmq:3.10.7-debian-11-r4
